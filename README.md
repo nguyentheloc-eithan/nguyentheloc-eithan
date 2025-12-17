@@ -9,9 +9,9 @@
 
 - 🔭 I’m  working on **Vistor Management Embed AI solution (face detection) Native App, Cyber Security (EDR/XDR) and C-UAS Development**
 
-- 🌱 I’m  work with **GOlang, C++, Nextjs, supabase, Pygame, TailwindCSS, Vitejs, TinyML, ExpressJs, Nodejs, Zustand, Expo Go (React Native)**
+- 🌱 I’m  work with **Golang, C++, Nextjs, supabase, Pygame, TailwindCSS, Vitejs, TinyML, ExpressJs, Nodejs, Zustand, Expo Go (React Native)**
   
-- 📫 How to reach me **nguyentheloc310101@gmail.com**
+
 
 - ⚡ Fun fact **Im half extrovert and half introvert :)**
 
