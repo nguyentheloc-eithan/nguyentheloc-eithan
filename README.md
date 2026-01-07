@@ -130,7 +130,15 @@
 </div>
 
 ## 📊 GitHub Stats
-<div align="center" >
-  <img src="https://streak-stats.demolab.com?user=nguyentheloc-eithan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentheloc-eithan&locale=en&hide_title=false&hide=html,MDX,css,makefile,Batchfile,handlebars,shell&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentheloc-eithan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="streak stats"/>
+</div>
+
+<div align="center">
+<!-- <br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nguyentheloc-eithan}/count.svg" /></p>  -->
+<br>
 </div>
