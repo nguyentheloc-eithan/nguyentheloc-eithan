@@ -21,7 +21,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/eithan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eithan" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/lộc (ethan) nguyễn thế"](https://www.linkedin.com/in/loc-nguyen-the-87a98120b/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lộc (ethan) nguyễn thế" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/loc-nguyen-the-87a98120b/" target="_blank" rel="noopener noreferrer">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="LinkedIn"
+       height="30"
+       width="40" />
+</a>
 <a href="https://instagram.com/ntl_3101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntl_3101" height="30" width="40" /></a>
 </p>
 </br>
