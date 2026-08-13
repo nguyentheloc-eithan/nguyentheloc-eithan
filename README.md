@@ -7,7 +7,7 @@
 
 - 🌱 **Tech Stack:** Golang, C/C++, Python, React, Next.js, React Native, TypeScript, Supabase, PostgreSQL, SQLite, and M5Stack.
 
-- 👨‍💻 **Recent Project:** Designed a Smart Garden IoT system using M5Stack and a React-based web interface for remote automated irrigation.
+- 👨‍💻 **Recent Project:** Designed a Smart Garden IoT system using M5Stack for remote automated irrigation and  C-UAS projects.
 
 - 🏆 **Achievements:** IELTS 6.5 | Google Solution Challenge (2021, 2023).
 
