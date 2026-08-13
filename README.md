@@ -1,26 +1,18 @@
 <img src="./m2-2.png"/>
 <h1 align="center">Hi 👋, I'm Nguyen The Loc (Eithan) <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
-<h3 align="center">A passionate Software Developer from Vietnam. Im also have beside-interest on AIOT</h3>
+<h3 align="center">Cyber and Digital Systems Engineer | Full-Stack Web, Mobile & AIoT</h3>
 <img align="right" alt="coding" width="400" src="./stand.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentheloc-310101&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentheloc-310101" /> </p>
 
+- 🔭 I’m currently working on **Command & Control (C2) Platforms for C-UAS Systems and multi-tenant cybersecurity solutions (EDR/XDR).**
 
-
-
-- 🔭 I’m  working on **Vistor Management Embed AI solution (face detection) Native App, Cyber Security (EDR/XDR) and C-UAS Development**
-
-- 🌱 I’m  work with **Golang, C++, Nextjs, supabase, Pygame, TailwindCSS, Vitejs, TinyML, ExpressJs, Nodejs, Zustand, Expo Go (React Native)**
+- 🌱 I’m currently working with **Golang, C/C++, Python, React, Next.js, React Native, TypeScript, Supabase, PostgreSQL, SQLite, and M5Stack.**
   
-
-
-- ⚡ Fun fact **Im half extrovert and half introvert :)**
-
-
-
+- ⚡ Fun fact: **I'm half extrovert and half introvert :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/eithan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eithan" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/loc-nguyen-the-87a98120b/" target="_blank" rel="noopener noreferrer">
   <img align="center"
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -28,7 +20,6 @@
        height="30"
        width="40" />
 </a>
-<a href="https://instagram.com/ntl_3101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntl_3101" height="30" width="40" /></a>
 </p>
 </br>
 </br>
@@ -37,7 +28,6 @@
 
 ###
 
-
 ###
 
 ## 💻 My Main Skills:
@@ -45,14 +35,10 @@
 <table align="center">
     <tr>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-            <br>JavaScript
+            <img src="https://skillicons.dev/icons?i=go" alt="Golang" width="48" height="48" />
+            <br>Go
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-            <br>TypeScript
-        </td>
-      <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
             <br>Python
         </td>
@@ -64,9 +50,13 @@
             <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
             <br>C
         </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+            <br>TypeScript
+        </td>
        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-            <br>Dart
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>JavaScript
         </td>
       <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
@@ -74,10 +64,6 @@
         </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-            <br>Tailwind
-        </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
             <br>React
@@ -87,12 +73,16 @@
             <br>Next.js
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="electron" />
-            <br>Electron
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+            <br>Tailwind
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
             <br>Flutter
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="electron" />
+            <br>Electron
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="opencv" />
@@ -104,12 +94,13 @@
         </td>
     </tr>
   <tr>
-      <td align="center" width="96">
-           <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+            <br>Postgres
         </td>
         <td align="center" width="96">
-           <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
-            <br>Postgres
+            <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" />
+            <br>SQLite
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="supabase" />
@@ -127,8 +118,8 @@
             <br>Linux
         </td>
      <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="latex" />
-            <br>Latex
+            <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+            <br>Dart
         </td>
     </tr>
 </table>
@@ -136,8 +127,6 @@
 </div>
 
 ## 📊 GitHub Stats
-
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentheloc-eithan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="streak stats"/>
