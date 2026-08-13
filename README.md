@@ -1,4 +1,4 @@
-<img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg"/>
+<img src="./me.png"/>
 <h1 align="center">Hi 👋, I'm Nguyen The Loc (Eithan) <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
 <h3 align="center">A passionate Software Developer from Vietnam. Im also have beside-interest on AIOT</h3>
 <img align="right" alt="coding" width="400" src="https://pics.craiyon.com/2023-08-06/11e7b11f5c0d4cfc8877f1f4cc8b387b.webp">
