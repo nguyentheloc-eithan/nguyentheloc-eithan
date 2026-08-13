@@ -3,6 +3,7 @@
 <h3 align="center">Cyber and Digital Systems Engineer | Full-Stack Web, Mobile & AIoT</h3>
 <img align="right" alt="coding" width="400" src="./stand.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentheloc-310101&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentheloc-310101" /> </p>
+
 - 🔭 **Current Focus:** Command & Control (C2) Platforms for C-UAS Systems and multi-tenant cybersecurity solutions (EDR/XDR).
 
 - 🌱 **Tech Stack:** Golang, C/C++, Python, React, Next.js, React Native, TypeScript, Supabase, PostgreSQL, SQLite, and M5Stack.
