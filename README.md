@@ -152,8 +152,10 @@ I enjoy working on problems where **software meets hardware**, especially when b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentheloc-eithan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="streak stats"/>
-</div>
+  <img
+    src="https://streak-stats.demolab.com/?user=nguyentheloc-eithan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"
+    alt="GitHub Streak Stats"
+  />
 
 <div align="center">
 <!-- <br><p align="centre"><b>Visitors Count</b></p>  
