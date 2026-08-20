@@ -1,7 +1,30 @@
-<img src="./m2-2.png"/>
-<h1 align="center">Hi 👋, I'm Nguyen The Loc (Eithan) <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
-<h3 align="center">Cyber and Digital Systems Engineer | Full-Stack Web, Mobile & AIoT</h3>
-<img align="right" alt="coding" width="400" src="./stand.png">
+<img src="./m2-2.png" width="100%" />
+
+<h1 align="center">
+  Hi 👋, I'm Nguyen The Loc (Eithan)
+</h1>
+
+<h3 align="center">
+  Software Engineer | Full-Stack • Embedded Systems • AIoT
+</h3>
+
+<p align="center">
+  Building software that connects <b>web, mobile, backend, embedded systems, and hardware</b>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/loc-nguyen-the-87a98120b/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Nguyen%20The%20Loc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=nguyentheloc-eithan&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentheloc-310101&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentheloc-310101" /> </p>
 
 - 🔭 **Current Focus:** Command & Control (C2) Platforms for C-UAS Systems and multi-tenant cybersecurity solutions (EDR/XDR).
