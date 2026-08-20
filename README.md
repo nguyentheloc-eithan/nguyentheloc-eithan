@@ -27,26 +27,22 @@
 <img align="right" alt="coding" width="400" src="./stand.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentheloc-310101&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentheloc-310101" /> </p>
 
-- 🔭 **Current Focus:** Command & Control (C2) Platforms for C-UAS Systems and multi-tenant cybersecurity solutions (EDR/XDR).
+I'm a **Software Engineer** with a strong interest in building systems across the entire technology stack — from **embedded devices and hardware interfaces to backend services and modern web applications**.
 
-- 🌱 **Tech Stack:** Golang, C/C++, Python, React, Next.js, React Native, TypeScript, Supabase, PostgreSQL, SQLite, and M5Stack.
+My experience spans:
 
-- 👨‍💻 **Recent Project:** Designed a Smart Garden IoT system using M5Stack for remote automated irrigation and  C-UAS projects.
+- 🌐 Full-Stack Web & Mobile Development
+- ⚙️ Backend & Distributed Services
+- 🔌 Embedded Systems & Hardware Integration
+- 📡 IoT, RF & Real-Time Systems
+- 🛰️ Command & Control (C2) platforms
+- 🛡️ C-UAS / Defense Technology Software
+- 🤖 AIoT & Computer Vision
+- 🗄️ Database & Multi-Tenant Systems
 
-- 🏆 **Achievements:** IELTS 6.5 | Google Solution Challenge (2021, 2023).
+I enjoy working on problems where **software meets hardware**, especially when building systems that need to communicate with real-world devices.
 
-- ☕ **Fun fact:** I'm half extrovert, half introvert, highly punctual, and run best on morning black coffee!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/loc-nguyen-the-87a98120b/" target="_blank" rel="noopener noreferrer">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="LinkedIn"
-       height="30"
-       width="40" />
-</a>
 </p>
 </br>
 </br>
