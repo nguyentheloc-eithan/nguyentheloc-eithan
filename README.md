@@ -149,12 +149,45 @@ I enjoy working on problems where **software meets hardware**, especially when b
 <br><br>
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
+## 🚀 What I'm Working On
+
+### 🛰️ C-UAS Command & Control
+
+Developing software platforms for **Counter-Unmanned Aircraft Systems (C-UAS)**, integrating multiple device types and real-time data streams.
+
+Working with technologies such as:
+
+- Go / Echo
+- React / Next.js
+- TypeScript
+- REST / gRPC
+- MQTT
+- SSE
+- SQLite / PostgreSQL
+- RF Sensors
+- EO Cameras
+- PTU
+- RF Jammers
+
+### 🌱 AIoT & Embedded Systems
+
+Exploring the intersection of **embedded systems, IoT, automation and software platforms**, including projects built with:
+
+- M5Stack
+- C / C++
+- Python
+- MQTT
+- Sensors & actuators
+- Computer vision
+- Cloud / backend services
+
+---
+
+<!-- <div align="center">
   <img
     src="https://streak-stats.demolab.com/?user=nguyentheloc-eithan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"
     alt="GitHub Streak Stats"
   />
 
-</div>
+</div> -->
