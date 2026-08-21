@@ -161,6 +161,7 @@ Working with technologies such as:
 - Go / Echo
 - React / Next.js
 - TypeScript
+- SAPIENT Protocol
 - REST / gRPC
 - MQTT
 - SSE
