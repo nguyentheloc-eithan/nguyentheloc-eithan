@@ -24,7 +24,7 @@
     alt="Profile Views"
   /> -->
 </p>
-<img align="right" alt="coding" width="400" src="./stand.png">
+<img align="right" alt="coding" width="400" src="./s2.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentheloc-310101&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentheloc-310101" /> </p>
 
 I'm a **Software Engineer** with a strong interest in building systems across the entire technology stack — from **embedded devices and hardware interfaces to backend services and modern web applications**.
